@@ -1,0 +1,8 @@
+{
+    "id": 2,
+    "title": "Ideal Customer Profile (ICP) Researcher",
+    "category": "Research",
+    "description": "This GPT helps you research and define your Ideal Customer Profile. It can analyze market data, identify key characteristics of your target audience, and help you create detailed personas to guide your outreach efforts.",
+    "chat_conversation": "User: Help me define the ICP for a new sustainable fashion brand.\n\nGPT: Let's start by gathering some information. Who is your primary target audience in terms of demographics (age, gender, location, income)? What are their values and interests related to fashion and sustainability?",
+    "cta_link": "#"
+}

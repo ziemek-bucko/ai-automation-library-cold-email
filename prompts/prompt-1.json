@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "title": "Generate a follow-up email",
+    "category": "Copywriting",
+    "description": "This prompt helps you craft a polite and effective follow-up email to a prospect who hasn't responded to your initial outreach. It focuses on providing additional value and a clear call to action.",
+    "prompt": "Write a follow-up email to a potential client who has not replied to my previous email sent a week ago. My goal is to re-engage them without being pushy. I am a marketing consultant and I previously offered a free audit of their website. My company is called [[Your Company Name]] and I am based in [[Your Location]].",
+    "output": "Subject: Following up - a quick thought on your website\n\nHi [Client Name],\n\nI hope you are having a productive week.\n\nI'm writing to follow up on the email I sent last week about a free website audit. I had a quick look at your site and noticed [mention one specific, easy-to-fix issue]. It's a common challenge, and there are a few simple ways to address it that could significantly boost your user engagement.\n\nWould you be open to a brief 15-minute chat next week to discuss this further? No strings attached.\n\nBest regards,\n[Your Name]"
+}

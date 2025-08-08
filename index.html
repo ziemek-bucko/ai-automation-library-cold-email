@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Automation Library</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">AI Templates</div>
+        <nav>
+            <a href="#" class="dashboard-button">Dashboard</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>AI-based automations for cold email</h1>
+            <p>Find inspiration from best-performing automations, sorted by categories.</p>
+        </section>
+
+        <div class="tabs">
+            <button class="tab-link active" onclick="openTab(event, 'Prompts')">Prompts</button>
+            <button class="tab-link" onclick="openTab(event, 'CustomGPTs')">Custom GPTs</button>
+        </div>
+
+        <div class="container">
+            <aside class="categories">
+                <h2>Categories</h2>
+                <ul>
+                    <li><a href="#" class="active">All categories</a></li>
+                    <li><a href="#">Strategy</a></li>
+                    <li><a href="#">Research</a></li>
+                    <li><a href="#">Copywriting</a></li>
+                </ul>
+            </aside>
+
+            <section id="Prompts" class="tab-content" style="display: block;">
+                <div class="templates-grid">
+                    <!-- Prompt items will be injected here -->
+                </div>
+            </section>
+
+            <section id="CustomGPTs" class="tab-content">
+                <div class="templates-grid">
+                    <!-- Custom GPTs items will be injected here -->
+                </div>
+            </section>
+        </div>
+
+        <div id="item-detail-view" class="modal">
+            <div class="modal-content">
+                <span class="close-button">&times;</span>
+                <div class="detail-container"></div>
+            </div>
+        </div>
+
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+{
+    "id": 3,
+    "title": "Find Prospect's Pain Points",
+    "category": "Research",
+    "description": "This prompt helps you research a prospect's company to identify potential pain points that your product or service can solve. It guides you to look at their recent news, job postings, and industry trends.",
+    "prompt": "Research [[Company Name]] and identify 3 potential pain points a marketing consultant could solve. Focus on areas like customer acquisition, brand visibility, and content strategy. Look at their website, recent press releases, and social media presence.",
+    "output": "1. **Pain Point: Low Social Media Engagement** - Their recent posts on LinkedIn have very few interactions, suggesting a lack of a clear social media strategy or content that resonates with their audience.\n2. **Pain Point: Outdated Blog Content** - The last blog post was published 6 months ago, indicating a potential struggle with content creation resources or strategy.\n3. **Pain Point: No Clear Call-to-Action on Homepage** - The homepage lacks a clear, compelling call-to-action, which could be hurting their lead generation efforts."
+}

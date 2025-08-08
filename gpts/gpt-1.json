@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "title": "Email Copywriting Assistant",
+    "category": "Copywriting",
+    "description": "A GPT specialized in writing persuasive and engaging cold email copy. It can help you with subject lines, body copy, and calls to action. Just provide the context and your goal, and it will generate high-quality copy.",
+    "chat_conversation": "User: I need a subject line for a cold email to a marketing manager at a tech company.\n\nGPT: Of course! Here are a few options, ranging from direct to more intriguing:\n1. Question about [Company Name]'s marketing strategy\n2. A new way to boost your content ROI\n3. [Your Name] <> [Company Name] | Collaboration Idea",
+    "cta_link": "#"
+}

@@ -1,0 +1,8 @@
+{
+    "id": 2,
+    "title": "Create a cold outreach strategy",
+    "category": "Strategy",
+    "description": "Develop a comprehensive cold outreach strategy for a new SaaS product targeting small businesses. This includes identifying the target audience, crafting the core message, and planning a multi-touch sequence.",
+    "prompt": "Create a 3-step cold email outreach strategy for a new project management SaaS tool targeting startups with 10-50 employees. The goal is to book demos. The tool is called [[Tool Name]].",
+    "output": "Step 1: Initial Outreach\n- Subject: Streamlining project management for [Company Name]\n- Body: Personalize with their company name and a recent achievement. Briefly introduce the tool and its key benefit (e.g., saving 10 hours per week). End with a soft call-to-action, like asking if they are the right person to speak to.\n\nStep 2: Follow-up with Value\n- When: 3 days after initial email.\n- Subject: A quick resource for you\n- Body: Provide a link to a valuable blog post or a short case study about how a similar company benefited. Reiterate the offer for a demo.\n\nStep 3: Break-up Email\n- When: 5 days after the second email.\n- Subject: Closing the loop\n- Body: A polite and professional email stating that you won't follow up again unless you hear from them. This often creates a sense of urgency."
+}

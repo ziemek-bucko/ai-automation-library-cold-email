@@ -1,0 +1,8 @@
+{
+    "id": 3,
+    "title": "Outreach Sequence Strategist",
+    "category": "Strategy",
+    "description": "This GPT helps you design multi-step outreach sequences for your cold email campaigns. It considers your target audience, goals, and value proposition to create a logical and effective sequence of emails and follow-ups.",
+    "chat_conversation": "User: I need a 4-step outreach sequence for a B2B SaaS product that helps with financial reporting.\n\nGPT: Great! Let's design that. Here's a proven framework:\nStep 1 (Day 1): Initial outreach with a focus on a specific pain point (e.g., \"Save 10+ hours on manual reporting\").\nStep 2 (Day 4): Follow-up with a case study or a short video showing the product in action.\nStep 3 (Day 8): Provide a valuable resource, like a whitepaper on financial reporting trends.\nStep 4 (Day 14): The \"break-up\" email. A polite final attempt to connect.",
+    "cta_link": "#"
+}
