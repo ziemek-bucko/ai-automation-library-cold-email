@@ -16,10 +16,14 @@ async function loadData() {
     }
 }
 
+function initializeTabs() {
+    // Set the first tab ('Prompts') as active by default
+    document.querySelector('.tab-link').click();
+}
+
 document.addEventListener('DOMContentLoaded', async () => {
     await loadData();
-    renderItems('Prompts', prompts);
-    renderItems('CustomGPTs', customGpts);
+    initializeTabs();
 
     const modal = document.getElementById('item-detail-view');
     const closeButton = document.querySelector('.close-button');
